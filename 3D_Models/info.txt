@@ -1,0 +1,3 @@
+Any parts that we are actually going to 3D print are being made in a program called OnShape.
+
+Rough, quick ideas will be made in TinkerCad.
