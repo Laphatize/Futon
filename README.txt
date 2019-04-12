@@ -13,6 +13,3 @@ Yashas A.
 Pranav R.
 Shashank G.
 Damien E.
-
-
-
